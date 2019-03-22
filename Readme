@@ -1,0 +1,35 @@
+1. Namespace is to keep a set of name to be separate each other.
+2. Value type is a variable can have a value directly.
+3. Reference type is that the variable do not have the directly value. But it have a reference to the actual data.
+4. The automatic properties is more clear. And is easy to use.
+5. Using statement is more convenient to use.
+6. The dynamic type variable is tell the compiler that the variable can be change.
+7. Is operator is check if the object is compatible.
+8. Generics is let you define specific data in class or method, is useful because it allow you use any data type with class and method.
+9. Any public access allows.
+10. Yes, you can.
+11. Use array.sort. And put the numbers in.
+12. If you have a uncertain value, you use the nullable type.
+13. Enumeration is a set of name and is distinct type.
+14. Inheritance is allow one class inherit another class.
+15. No, only one supported.
+16. Use as operator to perform between reference and nullable.
+17. Object is type of class that stored real data.
+18. Struct is value type and class is reference type.
+19. Continue make next round start, but break is end the function.
+20. This is just show the current case.
+21. Try is block and catch is to find the exception.
+22. exception is a response to the exception happened in the code.
+23. finally is after try and catch. Is to terminate due to the exception.
+24. ArrayList can store value of different data types. Array only can store one type of data.
+25. Object is type of class that stored real data.
+26. Constructor is a method of class.
+27. Var is a unchangeable variable.
+28. Abstract is a class cannot achieve Multiple inheritances and can contain static members and constructor.
+29. The Interface can achieve Multiple inheritances and Interface cannot contain static members and constructor.
+30. Method is code block contains set of statements.
+31. Property is that class member can work on it.
+32. Access specifier is a scope of accessibility of object and members.
+33. There are public which everyone can access. Private that only code in the same class.
+34. Collection is a type of class that have specific data storage.
+35. Hash table is a class collect key-and-value-pairs. 
